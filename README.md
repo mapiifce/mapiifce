@@ -29,7 +29,7 @@ Tudo isso utilizando boas práticas de programação e organização de código.
 Este projeto está sendo desenvolvido por alunos dedicados e comprometidos com o aprendizado de POO:
 
 - Matheus Castro  
-- Marcilio Nunes  
+- Antonio Marcilio  
 - João Pedro  
 - Isau Gomes
 
