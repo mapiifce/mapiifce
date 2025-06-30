@@ -1,6 +1,6 @@
 # Projeto MAPI
 
-Este repositório contém o projeto **MAPI**, desenvolvido como parte da disciplina de **Programação Orientada a Objetos (POO)**. O projeto teve como objetivo aplicar os principais conceitos de POO na prática, através do desenvolvimento de uma **tela de login**, uma **calculadora** e um **jogo da velha (tic-tac-toe)**.
+Este repositório contém o projeto **MAPI System**, desenvolvido como parte da disciplina de **Programação Orientada a Objetos (POO)**. O projeto teve como objetivo aplicar os principais conceitos de POO na prática, através do desenvolvimento de uma **Tela de Login**, uma **Calculadora** e um **Jogo da Velha**.
 
 ---
 
@@ -19,9 +19,9 @@ Todos os módulos foram desenvolvidos utilizando os princípios de **encapsulame
 ## 🛠️ Tecnologias Utilizadas
 
 - **Linguagem:** Java  
-- **IDE:** IntelliJ IDEA / Eclipse (especifique a que foi usada)  
-- **GUI:** Swing / JavaFX (especifique a biblioteca usada)  
-- **Controle de versão:** Git  
+- **IDE:** NetBeans  
+- **GUI:** Swing  
+- **Controle de versão:** Github  
 
 ---
 
@@ -55,26 +55,9 @@ Essas dificuldades nos ensinaram mais do que apenas programação: aprendemos so
 
 ---
 
-
 ## 👥 Integrantes
 
 - Matheus Castro
-- Marcilio Nunes
+- Antonio Marcilio
+- João Pedro Barros
 - Isau Gomes
-- João Pedro Barros  
-
----
-
-## 📂 Estrutura do Projeto (opcional)
-
-```bash
-mapi/
-├── login/
-│   └── Login.java
-├── calculadora/
-│   └── Calculadora.java
-├── jogo_da_velha/
-│   └── JogoDaVelha.java
-├── utils/
-│   └── Utils.java
-└── README.md
