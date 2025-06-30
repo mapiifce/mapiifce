@@ -55,11 +55,6 @@ Essas dificuldades nos ensinaram mais do que apenas programação: aprendemos so
 
 ---
 
-## 📸 Capturas de Tela (opcional)
-
-> *Adicione aqui prints das interfaces da calculadora, jogo da velha e tela de login, se disponível.*
-
----
 
 ## 👥 Integrantes
 
